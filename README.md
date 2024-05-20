@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Atualmente estudando Ciência da Computação na UNOESC.</h3>
+<h3 align="center">Atualmente estudando Ciência da Computação.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
